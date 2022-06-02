@@ -16,8 +16,8 @@
   width: 100%;
 }
 
-.more_inf {
-  font-family: fantasy, cursive;
+.more-inf {
+  font-family: "fantasy", cursive;
 }
 
 @media (max-width: 768px) {
