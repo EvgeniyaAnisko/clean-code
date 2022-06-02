@@ -16,8 +16,8 @@
   width: 100%;
 }
 
-.more_inf {
-  font-family: fantasy, cursive;
+.more-inf {
+  font-family: "fantasy", cursive;
 }
 
 @media (max-width: 768px) {
@@ -164,11 +164,11 @@
   display: none;
 }
 
-.tasks__item.editMode .tasks__item-text {
+.tasks__item.editmode .tasks__item-text {
   display: inline-block;
   width: 224px;
 }
 
-.tasks__item.editMode .tasks__item-label {
+.tasks__item.editmode .tasks__item-label {
   display: none;
 }
